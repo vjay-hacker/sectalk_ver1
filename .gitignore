@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js build output
+.next/
+out/
+
+# Package builds
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+.system_generated/
+
+# Local env files
+.env*.local
